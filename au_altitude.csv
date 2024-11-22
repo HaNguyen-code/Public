@@ -1,0 +1,353 @@
+Name,State,Elevation
+Perisher Village,NSW,1721
+Cabramurra,NSW,1461
+Thredbo Village,NSW,1447
+Guyra,NSW,1336
+Oberon,NSW,1103
+Nimmitabel,NSW,1082
+Mount Victoria,NSW,1071
+Glen Innes,NSW,1071
+Blackheath,NSW,1067
+Medlow Bath,NSW,1064
+Walcha,NSW,1047
+Adaminaby,NSW,1026
+Katoomba,NSW,1025
+Uralla,NSW,1004
+Armidale,NSW,982
+Lakewood Estate,NSW,970
+Millthorpe,NSW,969
+Deepwater,NSW,967
+Spring Hill,NSW,947
+Portland,NSW,944
+Jindabyne,NSW,918
+Lithgow,NSW,916
+Wallerawang,NSW,898
+Crookwell,NSW,896
+Emmaville,NSW,886
+Cullen Bullen,NSW,879
+Blayney,NSW,874
+Wentworth Falls,NSW,871
+Orange,NSW,869
+Berridale,NSW,862
+Clifton Grove,NSW,855
+Tenterfield,NSW,851
+Captains Flat,NSW,848
+Taralga,NSW,842
+Bendemeer,NSW,826
+Cooma,NSW,793
+Tingha,NSW,786
+Batlow,NSW,780
+Delegate,NSW,761
+Dorrigo,NSW,755
+Gilgai,NSW,741
+Robertson,NSW,731
+Lawson,NSW,728
+Exeter,NSW,712
+Bombala,NSW,701
+Bungendore,NSW,695
+Wingello,NSW,685
+Bowral,NSW,681
+Moss Vale,NSW,678
+Perthville,NSW,678
+Dinner Plain,VIC,1578
+Trentham,VIC,701
+Omeo,VIC,660
+Mount Macedon,VIC,605
+Tylden,VIC,591
+Daylesford,VIC,576
+Blackwood,VIC,566
+Gordon,VIC,564
+Woodend,VIC,557
+Kinglake,VIC,551
+Beechworth,VIC,548
+Pheasant Creek,VIC,544
+Kinglake West,VIC,518
+Kyneton,VIC,515
+Macedon,VIC,508
+Ballan,VIC,506
+Mount Helen,VIC,501
+Romsey,VIC,493
+Rawson,VIC,490
+Lancefield,VIC,480
+New Gisborne,VIC,470
+Malmsbury,VIC,449
+Buninyong,VIC,446
+Miners Rest,VIC,431
+Creswick,VIC,431
+Learmonth,VIC,425
+Ballarat,VIC,423
+Gisborne,VIC,421
+Marysville,VIC,418
+Cardigan Village,VIC,407
+Snake Valley,VIC,402
+Enfield,VIC,397
+Beaufort,VIC,391
+Riddells Creek,VIC,378
+Childers,VIC,371
+Wandong-Heathcote Junction,VIC,367
+Smythesdale,VIC,364
+Maldon,VIC,360
+Kilmore,VIC,354
+Mount Beauty,VIC,353
+Linton,VIC,347
+Meredith,VIC,340
+Harcourt,VIC,335
+Tawonga,VIC,329
+Ararat,VIC,327
+Corryong,VIC,325
+Gembrook,VIC,324
+Emerald,VIC,321
+Mansfield,VIC,321
+Wallan,VIC,320
+Herberton,QLD,913
+Ravenshoe,QLD,912
+Wallangarra,QLD,880
+Millaa Millaa,QLD,832
+Stanthorpe,QLD,798
+Atherton,QLD,766
+Tolga,QLD,759
+Malanda,QLD,735
+Kairi,QLD,719
+Yungaburra,QLD,710
+Blue Mountain Heights,QLD,704
+Tinaroo Falls,QLD,688
+Mount Garnet,QLD,661
+Highfields,QLD,650
+Mount Glorious,QLD,636
+Toowoomba,QLD,598
+North Tamborine,QLD,554
+Crows Nest,QLD,551
+Eagle Heights,QLD,541
+Wyreema,QLD,537
+Yangan,QLD,526
+Pittsworth,QLD,523
+Mount Tamborine,QLD,518
+Killarney,QLD,512
+Greenmount,QLD,511
+Meringandan,QLD,508
+Goombungee,QLD,504
+Gowrie,QLD,493
+Bell,QLD,488
+Allora,QLD,470
+Cambooya,QLD,462
+Warwick,QLD,461
+Dimbulah,QLD,460
+Mount Nebo,QLD,446
+Yarraman,QLD,444
+Kingsthorpe,QLD,442
+Clifton,QLD,439
+Blackbutt,QLD,438
+Kingaroy,QLD,433
+Maleny,QLD,418
+Mareeba,QLD,410
+Millmerran,QLD,406
+Pentland,QLD,404
+Oakey,QLD,403
+Tambo,QLD,401
+Injune,QLD,394
+Augathella,QLD,374
+Mapleton,QLD,370
+Proston,QLD,365
+Glenden,QLD,365
+Amata,SA,692
+Peterborough,SA,537
+Summertown,SA,537
+Lancelot,SA,530
+Fregon,SA,528
+Mimili,SA,502
+Uraidla,SA,501
+Burra,SA,472
+Jamestown,SA,455
+Mount Torrens,SA,441
+Mount Pleasant,SA,439
+Orroroo,SA,430
+Eudunda,SA,427
+Stirling,SA,422
+Lobethal,SA,419
+Indulkana,SA,414
+Booleroo Centre,SA,405
+Bridgewater,SA,402
+Springton,SA,391
+Clare,SA,390
+Birdwood,SA,389
+Nairne,SA,369
+Woodside,SA,368
+Echunga,SA,368
+Brukunga,SA,356
+Houghton,SA,355
+Mintabie,SA,353
+Kersbrook,SA,353
+Meadows,SA,353
+Angaston,SA,352
+Truro,SA,351
+Gumeracha,SA,348
+Oakbank,SA,345
+Hahndorf,SA,337
+Wirrabara,SA,337
+Balhannah,SA,335
+Mount Barker,SA,330
+Wilmington,SA,329
+Saddleworth,SA,320
+Hawker,SA,319
+Auburn,SA,312
+Quorn,SA,298
+Macclesfield,SA,297
+Spalding,SA,289
+Williamstown,SA,288
+Nuriootpa,SA,278
+Riverton,SA,274
+Kimba,SA,270
+Greenock,SA,268
+Leigh Creek,SA,265
+Tom Price,WA,726
+Newman,WA,550
+Jigalong,WA,525
+Wiluna,WA,519
+Leinster,WA,517
+Meekatharra,WA,517
+Laverton,WA,465
+Warburton,WA,460
+Cue,WA,457
+Marvel Loch,WA,437
+Menzies,WA,430
+Mount Magnet,WA,429
+Coolgardie,WA,428
+Wirrimanu,WA,423
+Halls Creek,WA,416
+Paraburdoo,WA,389
+Kalgoorlie-Boulder,WA,387
+Leonora,WA,385
+Southern Cross,WA,363
+Cuballing,WA,354
+Narrogin,WA,348
+Dalwallinu,WA,343
+Kambalda,WA,341
+Wickepin,WA,340
+Kojonup,WA,338
+Wyalkatchem,WA,328
+Greenbushes,WA,324
+Jerramungup,WA,322
+Merredin,WA,320
+Koorda,WA,320
+Mukinbudin,WA,313
+Kulin,WA,309
+Katanning,WA,309
+Pingelly,WA,308
+Kambalda West,WA,308
+Sawyers Valley,WA,307
+Mindibungu,WA,307
+Bakers Hill,WA,304
+Chidlow,WA,303
+Corrigin,WA,302
+Dowerin,WA,298
+Mundaring,WA,293
+Wongan Hills,WA,292
+Manjimup,WA,289
+Lake Grace,WA,287
+Wundowie,WA,286
+Bruce Rock,WA,285
+Norseman,WA,284
+Dumbleyung,WA,283
+Narembeen,WA,280
+Waratah,TAS,609
+Fern Tree,TAS,420
+Oatlands,TAS,416
+Bothwell,TAS,351
+Collinsvale,TAS,340
+Ringarooma,TAS,281
+Sheffield,TAS,280
+Ridgley,TAS,279
+Maydena,TAS,276
+St Marys,TAS,263
+Mole Creek,TAS,254
+Deloraine,TAS,241
+Fingal,TAS,240
+Branxholm,TAS,225
+Kempton,TAS,211
+Campbell Town,TAS,209
+Scottsdale,TAS,202
+Grindelwald,TAS,197
+Bracknell,TAS,195
+Ross,TAS,186
+Westbury,TAS,185
+Zeehan,TAS,180
+Evandale,TAS,174
+Tullah,TAS,170
+Cressy,TAS,166
+Perth,TAS,164
+Lilydale,TAS,164
+Rosebery,TAS,152
+Hadspen,TAS,148
+Queenstown,TAS,146
+Longford,TAS,144
+Carrick,TAS,139
+Bagdad,TAS,120
+Campania,TAS,75
+Blackmans Bay,TAS,69
+Railton,TAS,67
+Exeter,TAS,57
+Kingston,TAS,48
+Gawler,TAS,48
+Pontville,TAS,46
+Beaconsfield,TAS,43
+Howden,TAS,42
+Margate,TAS,40
+Kettering,TAS,38
+Dilston,TAS,38
+Ranelagh,TAS,36
+Geeveston,TAS,31
+New Norfolk,TAS,31
+Beauty Point,TAS,29
+Legana,TAS,29
+Kulpitjata,NT,646
+Papunya,NT,611
+Kaltukatjara,NT,594
+Alice Springs,NT,583
+Hermannsburg,NT,576
+Amoonguna,NT,545
+Nirrippi,NT,529
+Nyirripi,NT,525
+Yulara,NT,507
+Willowra,NT,469
+Kintore,NT,461
+Santa Teresa,NT,431
+Ampilatwatja,NT,397
+Tennant Creek,NT,367
+Lajamanu,NT,314
+Elliott,NT,226
+Pine Creek,NT,202
+Alpurrurulam,NT,200
+Barunga,NT,195
+Daguragu,NT,175
+Kalkarindji,NT,172
+Beswick,NT,153
+Mataranka,NT,139
+Weemol,NT,126
+Batchelor,NT,116
+Katherine,NT,110
+Gapuwiyak,NT,86
+Adelaide River,NT,56
+Palmerston,NT,50
+McMinns Lagoon,NT,42
+Howard Springs,NT,42
+Jabiru,NT,40
+Ramingining,NT,34
+Yirrkala,NT,31
+Ngukurr,NT,31
+Minjilang,NT,30
+Darwin,NT,28
+Port Keats,NT,26
+Galiwinku,NT,25
+Milikapiti,NT,22
+Alyangula,NT,22
+Belyuen,NT,21
+Nhulunbuy,NT,21
+Timber Creek,NT,20
+Daly River,NT,19
+Angurugu,NT,18
+Gagudju Cooinda Lodge,NT,16
+Borroloola,NT,15
+Pirlangimpi,NT,15
+Maningrida,NT,14
+Hall,ACT,646
+Canberra,ACT,574
